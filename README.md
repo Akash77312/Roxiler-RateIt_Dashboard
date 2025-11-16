@@ -135,6 +135,39 @@ npm run dev
 ### Users
 - PUT /api/users/:userId/password
 
+## 📸 Project Screenshots
+
+### 🔐 Login Page
+![Login](https://github.com/Akash77312/Roxiler-RateIt_Dashboard/blob/main/DEMO-IMAGE/login.png)
+
+---
+
+### 🧑‍💼 Admin Dashboard
+![Admin Dashboard](https://github.com/Akash77312/Roxiler-RateIt_Dashboard/blob/main/DEMO-IMAGE/admin-dash.png)
+
+### 📊 Admin Dashboard – Stats Section
+![Admin Dashboard Stats](https://github.com/Akash77312/Roxiler-RateIt_Dashboard/blob/main/DEMO-IMAGE/admin-dash-s.png)
+
+---
+
+### 🏪 Owner Dashboard
+![Owner Dashboard](https://github.com/Akash77312/Roxiler-RateIt_Dashboard/blob/main/DEMO-IMAGE/owner-dash.png)
+
+### ⭐ Owner – Store Insights
+![Owner Store Insights](https://github.com/Akash77312/Roxiler-RateIt_Dashboard/blob/main/DEMO-IMAGE/ownesi.png)
+
+---
+
+### 👤 User Dashboard
+![User Dashboard](https://github.com/Akash77312/Roxiler-RateIt_Dashboard/blob/main/DEMO-IMAGE/user-dash.png)
+
+---
+
+### 🔒 Password Update Page
+![Password Update](https://github.com/Akash77312/Roxiler-RateIt_Dashboard/blob/main/DEMO-IMAGE/pswd.png)
+
+
+
 ## 👨‍💻 Author
 **Akash Raj**
 
